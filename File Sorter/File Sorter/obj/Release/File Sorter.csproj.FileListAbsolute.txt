@@ -10,3 +10,12 @@ C:\Users\twar313\Google Drive\PF\Orbis\software\File sorter\File Sorter\File Sor
 C:\Users\tom2s\Google Drive\PF\Orbis\software\File sorter\File Sorter\File Sorter\bin\Release\File Sorter.exe.config
 C:\Users\tom2s\Google Drive\PF\Orbis\software\File sorter\File Sorter\File Sorter\obj\Release\File Sorter.exe
 C:\Users\tom2s\Google Drive\PF\Orbis\software\File sorter\File Sorter\File Sorter\obj\Release\File Sorter.pdb
+C:\Users\twar313\Documents\GitHub\File-Sorter\File Sorter\File Sorter\bin\Release\File Sorter.exe.config
+C:\Users\twar313\Documents\GitHub\File-Sorter\File Sorter\File Sorter\obj\Release\File Sorter.exe
+C:\Users\twar313\Documents\GitHub\File-Sorter\File Sorter\File Sorter\obj\Release\File Sorter.pdb
+C:\Users\twar313\Documents\GitHub\File-Sorter\File Sorter\File Sorter\bin\Release\File Sorter.exe
+C:\Users\twar313\Documents\GitHub\File-Sorter\File Sorter\File Sorter\bin\Release\File Sorter.pdb
+C:\Users\twar313\Documents\GitHub\File-Sorter\File Sorter\File Sorter\obj\Release\File Sorter.csprojResolveAssemblyReference.cache
+C:\Users\twar313\Documents\GitHub\File-Sorter\File Sorter\File Sorter\obj\Release\File_Sorter.Form1.resources
+C:\Users\twar313\Documents\GitHub\File-Sorter\File Sorter\File Sorter\obj\Release\File_Sorter.Properties.Resources.resources
+C:\Users\twar313\Documents\GitHub\File-Sorter\File Sorter\File Sorter\obj\Release\File Sorter.csproj.GenerateResource.Cache

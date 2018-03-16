@@ -123,6 +123,11 @@ namespace File_Sorter
             int a = 0;
         }
 
+        private void button_Clear_Click(object sender, EventArgs e)
+        {
+            Files2Convert.Items.Clear();
+        }
+
 
 
 

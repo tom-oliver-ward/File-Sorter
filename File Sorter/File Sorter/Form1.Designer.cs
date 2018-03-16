@@ -32,6 +32,7 @@
             this.ConvertB = new System.Windows.Forms.Button();
             this.FilenumTB = new System.Windows.Forms.TextBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
+            this.button_Clear = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // Files2Convert
@@ -70,11 +71,22 @@
             this.textBox1.TabIndex = 4;
             this.textBox1.Text = "Drag Files Here";
             // 
+            // button_Clear
+            // 
+            this.button_Clear.Location = new System.Drawing.Point(298, 188);
+            this.button_Clear.Name = "button_Clear";
+            this.button_Clear.Size = new System.Drawing.Size(140, 23);
+            this.button_Clear.TabIndex = 5;
+            this.button_Clear.Text = "Clear All";
+            this.button_Clear.UseVisualStyleBackColor = true;
+            this.button_Clear.Click += new System.EventHandler(this.button_Clear_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(739, 262);
+            this.Controls.Add(this.button_Clear);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.FilenumTB);
             this.Controls.Add(this.ConvertB);
@@ -93,6 +105,7 @@
         private System.Windows.Forms.Button ConvertB;
         private System.Windows.Forms.TextBox FilenumTB;
         private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Button button_Clear;
     }
 }
 
