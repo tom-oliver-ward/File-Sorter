@@ -1,0 +1,9 @@
+C:\Users\twar313\Google Drive\PF\Orbis\software\File sorter\File Sorter\File Sorter\bin\Debug\File Sorter.exe.config
+C:\Users\twar313\Google Drive\PF\Orbis\software\File sorter\File Sorter\File Sorter\bin\Debug\File Sorter.exe
+C:\Users\twar313\Google Drive\PF\Orbis\software\File sorter\File Sorter\File Sorter\bin\Debug\File Sorter.pdb
+C:\Users\twar313\Google Drive\PF\Orbis\software\File sorter\File Sorter\File Sorter\obj\Debug\File Sorter.csprojResolveAssemblyReference.cache
+C:\Users\twar313\Google Drive\PF\Orbis\software\File sorter\File Sorter\File Sorter\obj\Debug\File_Sorter.Form1.resources
+C:\Users\twar313\Google Drive\PF\Orbis\software\File sorter\File Sorter\File Sorter\obj\Debug\File_Sorter.Properties.Resources.resources
+C:\Users\twar313\Google Drive\PF\Orbis\software\File sorter\File Sorter\File Sorter\obj\Debug\File Sorter.csproj.GenerateResource.Cache
+C:\Users\twar313\Google Drive\PF\Orbis\software\File sorter\File Sorter\File Sorter\obj\Debug\File Sorter.exe
+C:\Users\twar313\Google Drive\PF\Orbis\software\File sorter\File Sorter\File Sorter\obj\Debug\File Sorter.pdb
